@@ -1,0 +1,1 @@
+Epoch: [198/200], train_loss = 0.2636, train_acc = 0.9104, test_loss = 0.3750, test_accuracy = 0.8763
